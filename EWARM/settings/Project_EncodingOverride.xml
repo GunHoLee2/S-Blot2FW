@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\sm_kang\K_Blot_Light\FW\K-Blot_Light_v1.0.20\Drivers\Component\hsDRV88xx_StepmotorDrive.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\sm_kang\K_Blot_Light\FW\KBL_v1.1\K-Blot_Light_v1.1.11\Src\motor.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\sm_kang\K_Blot_Light\FW\KBL_v1.1\K-Blot_Light_v1.1.12\Src\motor.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Component\hsDRV88xx_StepmotorDrive.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Component\hsDRV88xx_StepmotorDrive.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Component\hsTB6617_PeristalticPumpDrive.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Component\hsTB6617_PeristalticPumpDrive.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Porject_Device\KLight_Project_OnOff_Drive.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>E:\Project\K_Blot_Light\FW\K-Blot_Light\Cubemx_v1.0\K-Blot_Light_v1.0.0\Drivers\Porject_Device\KLight_Project_OnOff_Drive.h</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+

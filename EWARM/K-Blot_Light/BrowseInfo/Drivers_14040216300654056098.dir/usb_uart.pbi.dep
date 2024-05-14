@@ -1,0 +1,70 @@
+C:\work\sbt2_easy+\EWARM\K-Blot_Light\BrowseInfo\Drivers_14040216300654056098.dir\usb_uart.pbi: \
+  C:\work\sbt2_easy+\Src\usb_uart.c \
+  C:\work\sbt2_easy+\EWARM\..\Inc\main.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdio.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\ysizet.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdlib.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdbool.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\stdint.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\stm32f1xx_hal_conf.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\mxconstants.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Include\core_cm3.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Include\core_cmInstr.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\aarch32\cmsis_iar.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Include\core_cmFunc.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_adc.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_adc_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_spi.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\MCU_Config\hsBSP_MCU_Config.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\hsTB6617_PeristalticPumpDrive.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\CommonUtil\hs_Common_Utill.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\hsAT24_EEPROM.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\17HS3410_Dspin.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\17HS3410_Dspin_Config.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\17HS3410_Dspin.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\17HS3410_Dspin_Config.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\spu.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\macro.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\event.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\cntrl.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\timer.h \
+  C:\work\sbt2_easy+\EWARM\..\Drivers\Component\hsDRV88xx_StepmotorDrive.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\usb_uart.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\error.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\k_blot_pr.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\motor.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\eeprom.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\pump.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\adc.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\sq.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\pp_cal.h \
+  C:\work\sbt2_easy+\EWARM\..\Inc\QProc.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.2\arm\inc\c\DLib_Product_string.h
